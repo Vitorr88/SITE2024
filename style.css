@@ -1,0 +1,8 @@
+@charsel "UTF-8";
+body
+{
+    background-color:rgba(255, 255, 0, 0.712);
+    color: green;
+    font-size: 12pt;
+    font-family: arial;
+}
