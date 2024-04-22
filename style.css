@@ -16,13 +16,15 @@ h1{
     color: black;
 }
 
-.class{
-    color: blue;
-    text-shadow:
+.tamanho{
+    font-size: 16pt;
+    font-style: Arial;
+    color: red;
 }
 
-#id{
-    color: black;
-    text-shadow:none
-    -2px 3px 0 #000
+#cor{
+    color: blue; 
+    font-family: 20pt;
+    font-style: Verdana;
+    
 }
